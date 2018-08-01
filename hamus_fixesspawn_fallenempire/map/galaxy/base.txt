@@ -1,6 +1,6 @@
 ### BASE VALUES FOR GALAXY GENERATION
 fallen_empires = {
-	ideal_sq_dist_between = 0  	# 175*175 Ideal square distance between countries
+	ideal_sq_dist_between = 30625  	# 175*175 Ideal square distance between countries
 	min_sq_dist_between = 0		# 125*125 Min square distance between countries
 	max_military_fleet_count = 5	# Number of military fleets the empire will start with
 	ships_per_fleet = 3			
