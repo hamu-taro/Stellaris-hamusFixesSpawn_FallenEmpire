@@ -1,4 +1,4 @@
-# Stellaris MOD - hamusFixesSpawn - FallenEmpire for 2.1.1
+# Stellaris MOD - hamusFixesSpawn - FallenEmpire
 このリポジトリはParadox Interactive社のStellarisというゲームのMOD、hamusFixesSpawn - FallenEmpireのコードを管理するものです。 
 
 #  MOD概要
@@ -13,4 +13,5 @@
 steam workshop : https://steamcommunity.com/sharedfiles/filedetails/?id=1459073284
 
 # 変更履歴
-1.00b	試験公開
+2018/08/07  1.00  Stellaris-v2.1.1 対応
+2018/08/01  1.00b 試験公開
